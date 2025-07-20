@@ -1,0 +1,24 @@
+# Notebook & utility
+jupyter
+ipykernel
+numpy
+pandas
+matplotlib
+tqdm
+Pillow
+PyYAML
+
+# Computer vision
+opencv-python
+
+# Object Detection - YOLOv8
+ultralytics==8.0.219
+
+# OCR - Recognition
+easyocr
+
+# Deep Learning Frameworks
+torch>=2.0.0
+torchvision
+tensorflow>=2.12.0
+
